@@ -1,4 +1,4 @@
-![Fibonacci Threads Project](Banner.png)
+![Fibonacci Threads Project](Banner.PNG)
 
 # 🧵 Fibonacci Threads Project
 
